@@ -1,0 +1,13 @@
+https://github.com/abisee/pointer-generator ⭐ 
+
+https://github.com/lspvic/CopyNet ⭐ 
+ 
+https://github.com/mjc92/CopyNet ⭐ 
+
+https://github.com/MseXing/CopyNet
+
+https://github.com/pavanchhatpar/copynet-tf
+
+https://github.com/Rutts07/Summarization-using-Pointer-Generator-Networks ⭐ 
+
+https://github.com/ymfa/seq2seq-summarizer
